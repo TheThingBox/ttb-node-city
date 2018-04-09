@@ -1,0 +1,11 @@
+{
+  "city": {
+    "city": "City",
+    "country": "Country",
+    "name": "Name",
+    "value": {
+      "city": "Paris",
+      "country": "France"
+    }
+  }
+}
